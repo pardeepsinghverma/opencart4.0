@@ -1,0 +1,6 @@
+# Ignore template folders
+storage/cache/*
+storage/logs/*
+image/cache/*
+storage/logs/*
+image/catalog/*
